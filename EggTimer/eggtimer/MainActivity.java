@@ -1,4 +1,3 @@
-package com.mezme.eggtimer;
 
 import android.media.MediaPlayer;
 import android.os.CountDownTimer;
