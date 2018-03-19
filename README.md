@@ -1,4 +1,4 @@
 # 1
-Open:
+Find file:
 
-1/MainActivity.java
+MainActivity.java
